@@ -50,7 +50,15 @@ Now it's time to make something visible!  Let's make a header using an `h` tag. 
     </body>
 </html>
 ```
-As you see, we indented the header tags even further 
+As you see, we indented the header tags even further.  But wait- where are we going to put our content?  Well, content goes in between the `<h1> ` tags: 
+```html
+<!DOCTYPE html>
+    <body>
+        <h1>Hello, world!</h1>
+    </body>
+</html>
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTMzNDQxN119
+eyJoaXN0b3J5IjpbMTUzMTAzMDUxNF19
 -->
