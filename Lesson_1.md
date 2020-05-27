@@ -30,7 +30,8 @@ When we write HTML, we generally go ahead and close the tag before we start writ
 
 Now if we visit our file in a web browser, we will see a plain white screen.  It might not seem very exciting, but you have just written your first HTML website!
 
-## 1.3 - Adding cont
+## 1.3 - Adding Content
+You definitely want to add content of some kind to your website.  After all, no one wants to just stare at a plain white screen!  But before we can start adding text and images to an HTML document, we have to tell the web browser where to read that content from
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzIwMTU2NzNdfQ==
+eyJoaXN0b3J5IjpbNzkyMzk0NDA4XX0=
 -->
