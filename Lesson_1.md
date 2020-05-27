@@ -33,7 +33,14 @@ Now if we visit our file in a web browser, we will see a plain white screen.  It
 ## 1.3 - Adding Content
 You definitely want to add content of some kind to your website.  After all, no one wants to just stare at a plain white screen!  But before we can start adding text and images to an HTML document, we have to tell the web browser where to read that content from.  Why can't we just put it inside of the `<!DOCTYPE html>` and `</html>` tags?  Well, because a website is more than just what's visible.  If you continue learning with Ideoxan, then you'll discover that you can add invisible things such as _stylesheets_, _scripts_, _meta tags_, and more.  Right now, we'll ignore those and begin creating visible content.  
 
-To tell the browser where content begins, we add an opening and closing `
+To tell the browser where content begins, we add an opening and closing `<body>` tag under the HTML declaration like so:
+```html
+<!DOCTYPE html>
+    <body>
+    </body>
+</html>
+```
+You might notice something a little funky: the `<body>` tags are _indented_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjEwMzU4M119
+eyJoaXN0b3J5IjpbMjAxMjA1NTk2OV19
 -->
