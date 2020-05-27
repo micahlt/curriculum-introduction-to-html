@@ -75,8 +75,8 @@ Why don't we tell our website's users who we are?  We'll use a new tag, `<p>`, t
     </body>
 </html>
 ```
-Notice how we put a _line break_ (we pressed enter) after the first sentence.  In a normal program, that would show
+Notice how we put a _line break_ (we pressed enter) after the first sentence.  In a normal program, that would show up as two paragraphs, but HTML needs a little help.  You have to specifically tell it where to break lines with a _standalone tag_, or one that doesn't have a closing tag.  This tag is called `<br>`, which is just an abbreviation for "break".  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTEyNjkwMywxMjQ4MTk0MjYzLDE1Mz
+eyJoaXN0b3J5IjpbMTQwNDgxODk4OSwxMjQ4MTk0MjYzLDE1Mz
 EwMzA1MTRdfQ==
 -->
