@@ -40,7 +40,9 @@ To tell the browser where content begins, we add an opening and closing `<body>`
     </body>
 </html>
 ```
-You might notice something a little funky: the `<body>` tags are _indented_
+You might notice something a little funky: the `<body>` tags are _indented_, or spaced out from the left of the editor.  The Ideoxan Web IDE will automatically format your code like this, as it has become a standard convention for web developers.  
+
+Now it's time to make something visible!  Let's make a header using an `h` tag.  `h` tags 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjA1NTk2OV19
+eyJoaXN0b3J5IjpbLTE5MDUwNDMxMjddfQ==
 -->
