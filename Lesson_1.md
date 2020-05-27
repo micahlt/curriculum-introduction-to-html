@@ -10,6 +10,7 @@ There are several core components that define HTML.
 ## 1.1 - Where to Write HTML
 HTML is fairly easy to get started with, as you don't need any complicated or pricey programs to write it.  Many people begin writing HTML in a default program installed on their computer, such as Windows Notepad.  You can use the Ideoxan Web IDE.  
 
+Let's begin by creating a file.  Use the plus button to create a new file in the Ideoxan Web IDE and call it `index.html`.  While you can t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM5ODEzNTldfQ==
+eyJoaXN0b3J5IjpbLTE2ODE3NDkzMTNdfQ==
 -->
