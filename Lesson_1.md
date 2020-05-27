@@ -67,13 +67,16 @@ Why don't we tell our website's users who we are?  We'll use a new tag, `<p>`, t
 <!DOCTYPE html>
     <body>
         <h1>Hello, world!</h1>
-        <p>I'm an enthusiastic beginner programmer who is learning web development with Ideoxan, which was created by Skyclo!
-
-	</p>
+        <p>
+        I'm an enthusiastic beginner programmer who is learning web development with Ideoxan, which was created by Skyclo!
+        
+        I also enjoy playing video games.
+		</p>
     </body>
 </html>
 ```
+Notice how we put a _line break_ (we pressed enter) after the first sentence.  In a normal program, that would show
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDI0MjY3NCwxMjQ4MTk0MjYzLDE1Mz
+eyJoaXN0b3J5IjpbMTg4MTEyNjkwMywxMjQ4MTk0MjYzLDE1Mz
 EwMzA1MTRdfQ==
 -->
