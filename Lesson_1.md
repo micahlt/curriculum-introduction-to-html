@@ -25,8 +25,12 @@ When we write HTML, we generally go ahead and close the tag before we start writ
 ```html
 <!DOCTYPE html>
 
-</html
+</html>
 ```
+
+Now if we visit our file in a web browser, we will see a plain white screen.  It might not seem very exciting, but you have just written your first HTML website!
+
+## 1.3 - Adding cont
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTQ0OTg3N119
+eyJoaXN0b3J5IjpbLTEyMzIwMTU2NzNdfQ==
 -->
