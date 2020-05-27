@@ -31,7 +31,9 @@ When we write HTML, we generally go ahead and close the tag before we start writ
 Now if we visit our file in a web browser, we will see a plain white screen.  It might not seem very exciting, but you have just written your first HTML website!
 
 ## 1.3 - Adding Content
-You definitely want to add content of some kind to your website.  After all, no one wants to just stare at a plain white screen!  But before we can start adding text and images to an HTML document, we have to tell the web browser where to read that content from.  Why can't we just put it inside of the `<!DOCTYPE html>` and `</html>` tags?  Well, because a website is more than just what's visible.  If you continue learning with Ideoxan, then you'll discover that you can add invisible things such as _stylesheets_, s
+You definitely want to add content of some kind to your website.  After all, no one wants to just stare at a plain white screen!  But before we can start adding text and images to an HTML document, we have to tell the web browser where to read that content from.  Why can't we just put it inside of the `<!DOCTYPE html>` and `</html>` tags?  Well, because a website is more than just what's visible.  If you continue learning with Ideoxan, then you'll discover that you can add invisible things such as _stylesheets_, _scripts_, _meta tags_, and more.  Right now, we'll ignore those and begin creating visible content.  
+
+To tell the browser where content begins, we add an opening and closing `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk0NzIxOTFdfQ==
+eyJoaXN0b3J5IjpbMTQzNjEwMzU4M119
 -->
