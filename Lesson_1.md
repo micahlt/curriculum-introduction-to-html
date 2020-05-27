@@ -62,8 +62,18 @@ Now our website will say in a nice, bold, 90s-esque serifed font:
 
 ![Hello world!](https://github.com/micahlt/curriculum-introduction-to-html/blob/master/assets/hello.png)
 
-Why don't we tell our website's users who we are?  We'll use a new tag, `<p>`, that formats as paragraph text.  Paragraph text (sometimes shortened to para) is smaller than headers and 
+Why don't we tell our website's users who we are?  We'll use a new tag, `<p>`, that formats as paragraph text.  Paragraph text (sometimes shortened to para) is smaller than header text and isn't bold.  Let's test it out: 
+```html
+<!DOCTYPE html>
+    <body>
+        <h1>Hello, world!</h1>
+        <p>I'm an enthusiastic beginner programmer who is learning web development with Ideoxan, which was created by Skyclo!
+
+	</p>
+    </body>
+</html>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5MzUwMTgxLDEyNDgxOTQyNjMsMTUzMT
-AzMDUxNF19
+eyJoaXN0b3J5IjpbLTM2MDI0MjY3NCwxMjQ4MTk0MjYzLDE1Mz
+EwMzA1MTRdfQ==
 -->
