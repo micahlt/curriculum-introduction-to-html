@@ -8,7 +8,8 @@ There are several core components that define HTML.
 - **Closing Tags**: closing tags end a section of an HTML document.  Not every element has a closing tags, but about 90 percent do.  
 
 ## 1.1 - Where to Write HTML
-HTML is fairly easy to get started with, as you don't need any complicated or pricey programs to write it.  M
+HTML is fairly easy to get started with, as you don't need any complicated or pricey programs to write it.  Many people begin writing HTML in a default program installed on their computer, such as Windows Notepad.  You can use the Ideoxan Web IDE.  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTk3OTA0M119
+eyJoaXN0b3J5IjpbLTE0NzM5ODEzNTldfQ==
 -->
