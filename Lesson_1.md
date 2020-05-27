@@ -19,7 +19,14 @@ As was mentioned earlier, HTML is not the only language on the Internet, so we n
 ```html
 <!DOCTYPE html>
 ```
-This syntax (or way of writing a programming language) is a little wacky, but it's probably the weirdest you'll experience in this course.  The closing tag to end an HTML document is simply `</html>`.  
+This syntax (or way of writing a programming language) is a little wacky, but it's probably the weirdest you'll experience in this course.  The closing tag to end an HTML document is simply `</html>`.
+
+When we write HTML, we generally go ahead and close the tag before we start writing more code inside the tag.  So let's go ahead and do that: 
+```html
+<!DOCTYPE html>
+
+</html
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTcxNjQ1OV19
+eyJoaXN0b3J5IjpbMTU2MTQ0OTg3N119
 -->
