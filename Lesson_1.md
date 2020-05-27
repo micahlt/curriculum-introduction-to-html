@@ -15,11 +15,11 @@ Let's begin by creating a file.  Use the plus button to create a new file in the
 The IDE will automatically open the file.  Now you can start writing your first web page!
 
 ## 1.2 - Getting Started
-As was mentioned earlier, HTML is not the only language on the Internet, so we need to tell the _web browser_ what language we're writing in.  A web browser is a program on your computer such as Google Chrome, Brave, Microsoft Edge, Firefox, or Opera that has the ability to read and display different markup languages.  To tell the browser that we want to write HTML, we open the following tag: 
+As was mentioned earlier, HTML is not the only language on the Internet, so we need to tell the _web browser_ what language we're writing in.  A web browser is a program on your computer such as Google Chrome, Brave, Microsoft Edge, Firefox, or Opera that has the ability to read and display different markup languages.  To tell the browser that we want to write HTML, we type the following tag: 
 ```html
 <!DOCTYPE html>
 ```
-This syntax (or  is a little wacky, but it's probably the weirdest you'll experience in this course.  
+This syntax (or way of writing a programming language) is a little wacky, but it's probably the weirdest you'll experience in this course.  The closing tag to end an HTML document is simply `</html>`.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjE1NDk4N119
+eyJoaXN0b3J5IjpbMTA5MTcxNjQ1OV19
 -->
