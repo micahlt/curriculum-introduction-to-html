@@ -59,6 +59,8 @@ As you see, we indented the header tags even further.  But wait- where are we go
 </html>
 ```
 Now our website will say in a nice, bold, 90s-esque serifed font: 
+![Hello world!](https://github.com/micahlt/curriculum-introduction-to-html/blob/master/assets/hello.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODE5NDI2MywxNTMxMDMwNTE0XX0=
+eyJoaXN0b3J5IjpbMjQyNTMwNTQwLDEyNDgxOTQyNjMsMTUzMT
+AzMDUxNF19
 -->
