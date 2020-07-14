@@ -58,9 +58,9 @@ As you see, we indented the header tags even further.  But wait- where are we go
     </body>
 </html>
 ```
-Now our website will say in a nice, bold, 90s-esque serifed font: 
+Now our website will say in a nice, bold, 90s-esque serifed font or whatever your browser's default font is: 
 
-![Hello world!](https://github.com/micahlt/curriculum-introduction-to-html/blob/master/assets/hello.png)
+![Hello world!](https://github.com/micahlt/curriculum-introduction-to-html/blob/master/assets/hello.png?raw=true)
 
 Why don't we tell our website's users who we are?  We'll use a new tag, `<p>`, that formats as paragraph text.  Paragraph text (sometimes shortened to para) is smaller than header text and isn't bold.  Let's test it out: 
 ```html
@@ -88,6 +88,6 @@ Notice how we put a _line break_ (we pressed enter) after the first sentence.  I
 </html>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDUyNDQxNjcsMTI0ODE5NDI2MywxNT
-MxMDMwNTE0XX0=
+eyJoaXN0b3J5IjpbODEyMTE4OTc1LC0xOTA1MjQ0MTY3LDEyND
+gxOTQyNjMsMTUzMTAzMDUxNF19
 -->
