@@ -87,7 +87,11 @@ Notice how we put a _line break_ (we pressed enter) after the first sentence.  I
     </body>
 </html>
 ```
+The break tag as well as other standalone tags can also be written like this: 
+```html
+<br/>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyMTE4OTc1LC0xOTA1MjQ0MTY3LDEyND
-gxOTQyNjMsMTUzMTAzMDUxNF19
+eyJoaXN0b3J5IjpbLTE2OTAxODUzOTksLTE5MDUyNDQxNjcsMT
+I0ODE5NDI2MywxNTMxMDMwNTE0XX0=
 -->
